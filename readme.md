@@ -3,4 +3,6 @@
 # chapter 1 The basics of Golang, including syntax, data types, and control structures.
 [Write your first "Hello, World!" program](chapter1/hello.go)
 
-[Review Go's basic syntax, including variables, constants, and operators]
+[Review Go's basic syntax, including variables, constants, and operators](chapter1/syntax.go)
+
+[control structures such as if/else, switch/case, for and while loops](chapter1/controlStructure.go)
