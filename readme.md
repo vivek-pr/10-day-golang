@@ -7,4 +7,6 @@
 
 [Go's basic data types, including integers, floats, booleans, and strings](chapter1/dataTypes.go)
 
+[Go's advanced data types, arrays, slices, and maps](chapter1/advanceDataTypes.go)
+
 [control structures such as if/else, switch/case, for and while loops](chapter1/controlStructure.go)
