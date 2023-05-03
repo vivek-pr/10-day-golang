@@ -5,4 +5,6 @@
 
 [Review Go's basic syntax, including variables, constants, and operators](chapter1/syntax.go)
 
+[Go's basic data types, including integers, floats, booleans, and strings](chapter1/dataTypes.go)
+
 [control structures such as if/else, switch/case, for and while loops](chapter1/controlStructure.go)
